@@ -9,7 +9,7 @@ var text = new Blotter.Text("Mani Tofigh", {
 var material = new Blotter.FliesMaterial();
 material.uniforms.uPointCellWidth.value = 0.01;
 material.uniforms.uPointRadius.value = 0.7;
-material.uniforms.uSpeed.value = 3;
+material.uniforms.uSpeed.value = 6;
 
 var blotter = new Blotter(material, {
     texts: text
