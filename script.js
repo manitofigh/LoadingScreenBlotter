@@ -2,7 +2,7 @@ container = document.querySelector("#main");
 
 var text = new Blotter.Text("Mani Tofigh", {
     family: "serif",
-    size: 150,
+    size: 160,
     fill: "#fff",
 });
 
